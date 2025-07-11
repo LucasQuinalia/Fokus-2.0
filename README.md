@@ -4,7 +4,9 @@
 
 Este projeto faz parte do meu aprendizado de JavaScript, no curso da Alura: JavaScript: explorando a manipulação de elementos e da localStorage 
 
-Neste curso pude desenvolver mais o projeto **Fokus**, que é um aplicativo baseado no **método pomodoro**, que se baseia em períodos mais longos de trabalho ou estudo, seguidos de pausas curtas para descanso e pausas longas para recobrar as energias. 
+Neste curso pude desenvolver mais o projeto **Fokus**, que é um aplicativo baseado no **método pomodoro**, que se baseia em períodos mais longos de trabalho ou estudo, seguidos de pausas curtas para descanso e pausas longas para recobrar as energias.
+
+Link dos designs da aplicação: https://www.figma.com/design/dEaMv34Wd5G7TBMPo8fPlK/Projeto-Fokus?node-id=35-181&p=f&t=2IKnCzz7ufoADUM4-0
 
 ## Sobre o projeto
 
