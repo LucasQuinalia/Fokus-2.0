@@ -34,10 +34,4 @@ Esse projeto é uma aplicação web simples e interativa que permite aos usuári
 2. Abra a pasta onde o projeto foi baixado ou extraído, você encontrará um arquivo chamado index.html, a raíz do projeto;
 3. Ao abrir o arquivo index.html, o projeto será aberto em seu navegador padrão, e você já poderá utilizar a aplicação de gerenciamento de tarefas.
 
-Você encontrará três arquivos principais que contêm o código que do sistema:
-
-- script-crud.js: onde as funcionalidades de CRUD (Criar, Ler, Atualizar e Deletar) das tarefas são implementadas;
-- script.js: um script adicional que contém outras funcionalidades JavaScript do projeto;
-- styles.css: onde a beleza do projeto é criada, com todos os estilos CSS que transformam a aparência do sistema.
-
 Com isso, o sistema conta agora não só com um **pomodoro clássico**, mas com uma funcionalidade completa de **gestão de tarefas e focos!**
